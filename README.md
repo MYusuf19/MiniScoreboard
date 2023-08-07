@@ -1,2 +1,2 @@
 # MiniScoreboard
-Mini Project 
+Aplikasi Ini adalah Mini project dalam rangka mengikut test kebidangan PT APTAVIS
